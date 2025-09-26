@@ -1,4 +1,4 @@
-# Papers by Canxin Liu
+# Papers by Mary (Canxin) Liu
 
 Welcome! Here are my research papers, directly viewable on GitHub:
 
